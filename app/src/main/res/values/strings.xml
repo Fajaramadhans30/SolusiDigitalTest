@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Solusi Digital Test</string>
+    <string name="image_for_content_error">Connection Failed</string>
+    <string name="info_error_response">Check Your Connection</string>
+    <string name="intent_title">title</string>
+    <string name="author">author</string>
+    <string name="publishedAt">publishedAt</string>
+    <string name="description">description</string>
+    <string name="image">urlToImage</string>
+</resources>
